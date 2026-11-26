@@ -1,0 +1,7 @@
+{
+ "date": "2026-11-26",
+ "prev": "92ec43f73af4c1544be0e8fa287e9915e19be2842c087d224f75c50cec4f12db",
+ "day_root": "3e4487edca7f13a5c944e30c526c635dfa05cad410e15b5a10785ee250104ba2",
+ "day_hash": "abddbd1bbec9cf985b1cdcae1c48603458b0683872a3e755dcd7d336bdff98b2",
+ "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgUkpG5wPs8t5mZ/qh1pxwNhKy9f\nFvA2bolCZxdSJ2i30AAAANYW5udWx1cy1wcm9vZgAAAAAAAAAGc2hhNTEyAAAAUwAAAAtz\nc2gtZWQyNTUxOQAAAEALsuVuxB9ADFQxZ0lhChreT/o9lHvXcYDnJdYbAHuC9VQao0mfx8\n+vX8nKc19gzowEBoHsxDzYVDcGBVeweKQC\n-----END SSH SIGNATURE-----\n"
+}
